@@ -1,0 +1,10 @@
+﻿  sic_match.cpp
+E:\Major revision\sic_match\sic_match.cpp(158,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Major revision\sic_match\sic_match.cpp(159,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+    正在创建库 E:\Major revision\sic_match\x64\Release\sic_match.lib 和对象 E:\Major revision\sic_match\x64\Release\sic_match.exp
+  正在生成代码
+  227 of 1563 functions (14.5%) were compiled, the rest were copied from previous compilation.
+    21 functions were new in current compilation
+    84 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  sic_match.vcxproj -> E:\Major revision\sic_match\x64\Release\sic_match.exe
